@@ -1,0 +1,8 @@
+.ProductCard{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ProductPhoto img{
+    max-width: 100%;
+
+}
